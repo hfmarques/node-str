@@ -1,0 +1,17 @@
+http express debug
+npm install http express debug --save
+npm install nodemoon--save
+npm install bosy-pareser --save
+npm install mongoose --save
+npm install guid --save
+npm install md5 --save
+npm install sendgrid@2.0.0 --save
+npm install azure-storage --save
+npm install jsonwebtoken --save
+
+
+https://mlab.com
+https://studio3t.com
+https://sendgrid.com
+https://portal.azure.com
+https://www.base64-image.de
